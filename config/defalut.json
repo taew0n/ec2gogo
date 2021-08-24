@@ -1,0 +1,9 @@
+{
+    "hostConnection":
+    {
+        "host"     : "localhost",
+        "user"     : "root",
+        "password" : "xodnjs615",
+        "database" : "bml" 
+    }
+}
